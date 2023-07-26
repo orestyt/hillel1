@@ -11,5 +11,6 @@ public class hw3{
         System.out.println(Cat.getCounter());
         System.out.println(Animal.getCounter());
         System.out.println(Dog.getCounter());
+
     }
 }
